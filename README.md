@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Joel
+
+<details>
+  <summary>My favorite image so far</summary>
+  <img src="cat-bread-face.jpg" alt="delicious cat bread">
+</details>
+
 <!--
 **joelvonrotz/joelvonrotz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,7 +3,7 @@
 I'm Joel
 
 <details>
-  <summary>My favorite image so far</summary>
+  <summary>Very Important Image</summary>
   <img src="cat-bread-face.jpg" alt="delicious cat bread">
 </details>
 

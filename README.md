@@ -6,6 +6,4 @@ Hello! I'm a guy doing something he hopes he knows. I'm also known as "quarto ho
 
 On my profile you'll find all sorts of repositories, which will unfortunately get indexed by a bajillion of AI software by the bajillion of startups *specializing in AI* to create the absolute shithole of an "AI assistant", because I accepted the ToS without actually reading it and I *trust* mega corporation like a complete sellout.
 
-PS: If you think something about my profile is a joke, it probably is.
-
-![Oh no Skeleton Attack :O](anm_skeleton.gif)
+**Current Goal**: no committing on Saturday & Sunday (it's a weekend for god sake)
